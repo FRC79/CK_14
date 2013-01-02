@@ -1,0 +1,15 @@
+[Enables]
+LadderDrivePower=TRUE
+LineFollowState=TRUE
+GyroAngle=TRUE
+FrontLeftEncoderDistance=TRUE
+ActualFrontSteerAngle=FALSE
+ActualBackSteerAngle=FALSE
+FrontLeftRollingPower=FALSE
+AutonomousActiveState=TRUE
+FingersPosition=FALSE
+ArmPosition=FALSE
+CameraImageCenter=FALSE
+SonarDistance=TRUE
+AutonSelection=FALSE
+LadderPosition=TRUE
